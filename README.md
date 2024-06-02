@@ -10,3 +10,15 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/parassetia889/DSA-journey/tree/master/0344-reverse-string) |
+# Array
+|  |
+| ------- |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/parassetia889/DSA-journey/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+# Binary Search
+|  |
+| ------- |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/parassetia889/DSA-journey/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+# Sorting
+|  |
+| ------- |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/parassetia889/DSA-journey/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
