@@ -10,6 +10,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/parassetia889/DSA-journey/tree/master/0344-reverse-string) |
+| [0409-longest-palindrome](https://github.com/parassetia889/DSA-journey/tree/master/0409-longest-palindrome) |
 # Array
 |  |
 | ------- |
@@ -24,3 +25,11 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/parassetia889/DSA-journey/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+# Hash Table
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/parassetia889/DSA-journey/tree/master/0409-longest-palindrome) |
+# Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/parassetia889/DSA-journey/tree/master/0409-longest-palindrome) |
