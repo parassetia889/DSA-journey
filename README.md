@@ -16,6 +16,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parassetia889/DSA-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parassetia889/DSA-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0238-product-of-array-except-self](https://github.com/parassetia889/DSA-journey/tree/master/0238-product-of-array-except-self) |
 | [0792-binary-search](https://github.com/parassetia889/DSA-journey/tree/master/0792-binary-search) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/parassetia889/DSA-journey/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 # Binary Search
@@ -41,3 +42,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parassetia889/DSA-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parassetia889/DSA-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+# Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/parassetia889/DSA-journey/tree/master/0238-product-of-array-except-self) |
