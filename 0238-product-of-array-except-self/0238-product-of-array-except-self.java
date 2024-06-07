@@ -1,30 +1,26 @@
 class Solution {
     public int[] productExceptSelf(int[] nums) {
         
-        int res[] = new int[nums.length];
-        int pro = 1, count = 0;
-
-        for(int i : nums){
-            if(i == 0)
-                count++;
-            else
-                pro *= i;
-            }
-        if(count > 1)
-            return res;
-
-        for(int i = 0; i < nums.length; i++){
-            if(count == 0)
-                res[i] = pro/nums[i];
-            else{
-                if(nums[i] == 0)
-                    res[i] = pro;
-                else
-                    res[i] = 0;
-            }
+        int n = nums.length;
+        int larr[] = new int[n];
+        int rarr[] = new int[n];
+        
+        int p = 1;
+        for(int i = 0; i < n; i++){
+            larr[i] = p;
+            p *= nums[i];
         }
-            
 
-        return res;
+        p = 1;
+        for(int i = n-1; i >= 0; i--){
+            rarr[i] = p;
+            p *= nums[i];
+        }
+
+        for(int i = 0; i < n; i++){
+            nums[i] = larr[i] * rarr[i];
+        }
+
+        return nums;
     }
 }
