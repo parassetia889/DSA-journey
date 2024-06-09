@@ -11,6 +11,8 @@ class Solution {
         for(int i = 0; i < n; i++){
             if(map.containsKey(2*nums[i]) && i != map.get(2*nums[i]))
                 return true;
+
+   
         }
 
         return false;
