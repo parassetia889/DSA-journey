@@ -1,12 +1,16 @@
 class Solution {
-    public boolean checkIfExist(int[] arr) {
+    public boolean checkIfExist(int[] nums) {
         
-        int n = arr.length;
-        for(int i = 0 ; i < n; i++){
-            for(int j = 0; j < n; j++){
-                if(arr[j] == 2*arr[i] && i != j)
-                    return true;
-            }
+        int n = nums.length;
+
+        Map<Integer, Integer> map = new HashMap<>();
+
+        for(int i = 0; i < n; i++)
+            map.put(nums[i], i);
+
+        for(int i = 0; i < n; i++){
+            if(map.containsKey(2*nums[i]) && i != map.get(2*nums[i]))
+                return true;
         }
 
         return false;
