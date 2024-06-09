@@ -6,6 +6,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/parassetia889/DSA-journey/tree/master/0344-reverse-string) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/parassetia889/DSA-journey/tree/master/1468-check-if-n-and-its-double-exist) |
 # String
 |  |
 | ------- |
@@ -19,21 +20,25 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0238-product-of-array-except-self](https://github.com/parassetia889/DSA-journey/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/parassetia889/DSA-journey/tree/master/0523-continuous-subarray-sum) |
 | [0792-binary-search](https://github.com/parassetia889/DSA-journey/tree/master/0792-binary-search) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/parassetia889/DSA-journey/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/parassetia889/DSA-journey/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 # Binary Search
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/parassetia889/DSA-journey/tree/master/0792-binary-search) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/parassetia889/DSA-journey/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/parassetia889/DSA-journey/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 # Sorting
 |  |
 | ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/parassetia889/DSA-journey/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/parassetia889/DSA-journey/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 # Hash Table
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/parassetia889/DSA-journey/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/parassetia889/DSA-journey/tree/master/0523-continuous-subarray-sum) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/parassetia889/DSA-journey/tree/master/1468-check-if-n-and-its-double-exist) |
 # Greedy
 |  |
 | ------- |
