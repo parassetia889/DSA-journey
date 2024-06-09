@@ -57,4 +57,5 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 # Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/parassetia889/DSA-journey/tree/master/0263-ugly-number) |
 | [0523-continuous-subarray-sum](https://github.com/parassetia889/DSA-journey/tree/master/0523-continuous-subarray-sum) |
