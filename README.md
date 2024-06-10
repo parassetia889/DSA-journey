@@ -21,6 +21,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0523-continuous-subarray-sum](https://github.com/parassetia889/DSA-journey/tree/master/0523-continuous-subarray-sum) |
 | [0792-binary-search](https://github.com/parassetia889/DSA-journey/tree/master/0792-binary-search) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/parassetia889/DSA-journey/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1137-height-checker](https://github.com/parassetia889/DSA-journey/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/parassetia889/DSA-journey/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/parassetia889/DSA-journey/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 # Binary Search
@@ -32,6 +33,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 # Sorting
 |  |
 | ------- |
+| [1137-height-checker](https://github.com/parassetia889/DSA-journey/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/parassetia889/DSA-journey/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/parassetia889/DSA-journey/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 # Hash Table
@@ -62,3 +64,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0263-ugly-number](https://github.com/parassetia889/DSA-journey/tree/master/0263-ugly-number) |
 | [0523-continuous-subarray-sum](https://github.com/parassetia889/DSA-journey/tree/master/0523-continuous-subarray-sum) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/parassetia889/DSA-journey/tree/master/1137-height-checker) |
