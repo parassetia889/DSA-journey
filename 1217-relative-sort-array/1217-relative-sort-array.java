@@ -4,27 +4,31 @@ class Solution {
         int n1 = arr1.length;
         int n2 = arr2.length;
 
-        int[] ans = new int[n1];
+        List<Integer> res = new ArrayList<>();
+        List<Integer> remaining = new ArrayList<>();
 
-        int itr = 0;
-        for(int i : arr2){
-            for(int j = 0; j < n1; j++){
-                if(arr1[j] == i){
-                    ans[itr] = i;
-                    itr++;
-                    arr1[j] = -1;
-                }
-            }
-        }
-        Arrays.sort(arr1);
+        HashMap<Integer, Integer> map = new HashMap<>();
 
-        for(int i : arr1){
-            if(i != -1){
-                ans[itr] = i;
-                itr++;
-            }
+        for(int i : arr2)
+            map.put(i,0);
+
+        for(int val : arr1){
+            if(map.containsKey(val))
+                map.put(val, map.get(val)+1);
+            else
+                remaining.add(val);
         }
 
-        return ans;
+        Collections.sort(remaining);
+
+        for(int val : arr2){
+            for(int j = 0; j < map.get(val); j++)
+                res.add(val);
+        }
+
+        res.addAll(remaining);
+
+        return res.stream().mapToInt(Integer::intValue).toArray();
+
     }
 }
