@@ -2,19 +2,19 @@ class Solution {
     public int heightChecker(int[] heights) {
         
         int n = heights.length;
-        int[] arr = new int[n];
+        int[] expected = new int[n];
 
         int j = 0;
         for(int i : heights){
-            arr[j] = i;
+            expected[j] = i;
             j++;
         }
 
-        Arrays.sort(arr);
-
+        Arrays.sort(expected);
+        
         int count = 0;
-        for(int i = 0; i < n; i++){
-            if(arr[i] != heights[i])
+        for(int i = 0; i < expected.length; i++){
+            if(expected[i] != heights[i])
                 count++;
         }
 
