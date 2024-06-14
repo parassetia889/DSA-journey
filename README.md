@@ -20,6 +20,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0238-product-of-array-except-self](https://github.com/parassetia889/DSA-journey/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/parassetia889/DSA-journey/tree/master/0523-continuous-subarray-sum) |
 | [0792-binary-search](https://github.com/parassetia889/DSA-journey/tree/master/0792-binary-search) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/parassetia889/DSA-journey/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/parassetia889/DSA-journey/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/parassetia889/DSA-journey/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/parassetia889/DSA-journey/tree/master/1217-relative-sort-array) |
@@ -34,6 +35,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 # Sorting
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/parassetia889/DSA-journey/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/parassetia889/DSA-journey/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/parassetia889/DSA-journey/tree/master/1217-relative-sort-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/parassetia889/DSA-journey/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -51,6 +53,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parassetia889/DSA-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/parassetia889/DSA-journey/tree/master/0409-longest-palindrome) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/parassetia889/DSA-journey/tree/master/0982-minimum-increment-to-make-array-unique) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -70,5 +73,6 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 # Counting Sort
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/parassetia889/DSA-journey/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/parassetia889/DSA-journey/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/parassetia889/DSA-journey/tree/master/1217-relative-sort-array) |
