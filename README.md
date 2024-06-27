@@ -15,6 +15,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 # Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/parassetia889/DSA-journey/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parassetia889/DSA-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parassetia889/DSA-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0238-product-of-array-except-self](https://github.com/parassetia889/DSA-journey/tree/master/0238-product-of-array-except-self) |
@@ -29,6 +30,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 # Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/parassetia889/DSA-journey/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/parassetia889/DSA-journey/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/parassetia889/DSA-journey/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/parassetia889/DSA-journey/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
