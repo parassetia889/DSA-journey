@@ -15,6 +15,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 # Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/parassetia889/DSA-journey/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parassetia889/DSA-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parassetia889/DSA-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -30,6 +31,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 # Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/parassetia889/DSA-journey/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/parassetia889/DSA-journey/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/parassetia889/DSA-journey/tree/master/1468-check-if-n-and-its-double-exist) |
