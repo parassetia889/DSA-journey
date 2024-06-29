@@ -6,6 +6,7 @@ class Solution {
         while( low <= high){
             int mid = (low+high)/2;
 
+            //Optimization step, when search space left is already sorted
             if(nums[low] <= nums[high]){
                 ans = Math.min(ans, nums[low]);
                 break;
