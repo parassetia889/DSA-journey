@@ -80,3 +80,14 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/parassetia889/DSA-journey/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/parassetia889/DSA-journey/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/parassetia889/DSA-journey/tree/master/1217-relative-sort-array) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+<!---LeetCode Topics End-->
