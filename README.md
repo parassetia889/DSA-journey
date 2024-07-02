@@ -90,6 +90,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0350-intersection-of-two-arrays-ii](https://github.com/parassetia889/DSA-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/parassetia889/DSA-journey/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/parassetia889/DSA-journey/tree/master/0907-koko-eating-bananas) |
 | [1293-three-consecutive-odds](https://github.com/parassetia889/DSA-journey/tree/master/1293-three-consecutive-odds) |
 ## Binary Search
 |  |
@@ -100,6 +101,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0350-intersection-of-two-arrays-ii](https://github.com/parassetia889/DSA-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/parassetia889/DSA-journey/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/parassetia889/DSA-journey/tree/master/0907-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |
