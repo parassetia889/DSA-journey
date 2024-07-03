@@ -92,6 +92,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0882-peak-index-in-a-mountain-array](https://github.com/parassetia889/DSA-journey/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/parassetia889/DSA-journey/tree/master/0907-koko-eating-bananas) |
 | [1293-three-consecutive-odds](https://github.com/parassetia889/DSA-journey/tree/master/1293-three-consecutive-odds) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/parassetia889/DSA-journey/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/parassetia889/DSA-journey/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Binary Search
 |  |
@@ -103,6 +104,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0540-single-element-in-a-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/parassetia889/DSA-journey/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/parassetia889/DSA-journey/tree/master/0907-koko-eating-bananas) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/parassetia889/DSA-journey/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Math
 |  |
 | ------- |
