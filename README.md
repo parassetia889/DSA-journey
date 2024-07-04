@@ -96,6 +96,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/parassetia889/DSA-journey/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/parassetia889/DSA-journey/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/parassetia889/DSA-journey/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1646-kth-missing-positive-number](https://github.com/parassetia889/DSA-journey/tree/master/1646-kth-missing-positive-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,6 +110,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/parassetia889/DSA-journey/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/parassetia889/DSA-journey/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/parassetia889/DSA-journey/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/parassetia889/DSA-journey/tree/master/1646-kth-missing-positive-number) |
 ## Math
 |  |
 | ------- |
