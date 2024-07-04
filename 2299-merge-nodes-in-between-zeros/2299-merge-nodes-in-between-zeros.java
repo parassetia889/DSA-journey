@@ -11,23 +11,24 @@
 class Solution {
     public ListNode mergeNodes(ListNode head) {
         
+        ListNode dummy = new ListNode(-1);
+        ListNode ans = dummy;
         ListNode curr = head.next;
-        ListNode merged = head.next;
+        int sum = 0;
 
         while(curr != null){
-            int sum = 0;
-
-            while(curr.val != 0){
+            if(curr.val != 0){
                 sum += curr.val;
-                curr = curr.next;
+                
+            }else{
+                dummy.next = new ListNode(sum);
+                dummy = dummy.next;
+                sum = 0;
             }
-
-            merged.val = sum;
             curr = curr.next;
-            merged.next = curr;
-            merged = merged.next;
-           
+
         }
-        return head.next;
+
+        return ans.next;
     }
 }
