@@ -1,17 +1,14 @@
 class Solution {
     public int passThePillow(int n, int time) {
         
-        int currTime = 0, currPos = 1, direction = 1;
+        int currPos = 1, dir = 1;
 
-        while(currTime < time){
-            if(currPos+direction > 0 && currPos + direction <= n){
-            currPos += direction;
-            currTime++;
-            }
-            else
-                direction = -1;
+        for(int i = 1; i <= time; i++){
+            
+            currPos += dir;
+            if(currPos == n || currPos == 1)
+                dir *= -1;
         }
-
-        return currPos;   
+        return currPos;
     }
 }
