@@ -115,6 +115,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/parassetia889/DSA-journey/tree/master/0069-sqrtx) |
+| [2645-pass-the-pillow](https://github.com/parassetia889/DSA-journey/tree/master/2645-pass-the-pillow) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,4 +141,5 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/parassetia889/DSA-journey/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/parassetia889/DSA-journey/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
