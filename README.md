@@ -100,6 +100,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1646-kth-missing-positive-number](https://github.com/parassetia889/DSA-journey/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/parassetia889/DSA-journey/tree/master/1675-magnetic-force-between-two-balls) |
 | [1720-crawler-log-folder](https://github.com/parassetia889/DSA-journey/tree/master/1720-crawler-log-folder) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/parassetia889/DSA-journey/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,6 +117,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/parassetia889/DSA-journey/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/parassetia889/DSA-journey/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/parassetia889/DSA-journey/tree/master/1675-magnetic-force-between-two-balls) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/parassetia889/DSA-journey/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Math
 |  |
 | ------- |
