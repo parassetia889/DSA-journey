@@ -99,6 +99,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/parassetia889/DSA-journey/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1646-kth-missing-positive-number](https://github.com/parassetia889/DSA-journey/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/parassetia889/DSA-journey/tree/master/1675-magnetic-force-between-two-balls) |
+| [1720-crawler-log-folder](https://github.com/parassetia889/DSA-journey/tree/master/1720-crawler-log-folder) |
 ## Binary Search
 |  |
 | ------- |
@@ -158,4 +159,12 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/parassetia889/DSA-journey/tree/master/0410-split-array-largest-sum) |
+## String
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/parassetia889/DSA-journey/tree/master/1720-crawler-log-folder) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/parassetia889/DSA-journey/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
