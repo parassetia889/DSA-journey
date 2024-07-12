@@ -85,6 +85,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/parassetia889/DSA-journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/parassetia889/DSA-journey/tree/master/0162-find-peak-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/parassetia889/DSA-journey/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -104,6 +105,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/parassetia889/DSA-journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/parassetia889/DSA-journey/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/parassetia889/DSA-journey/tree/master/0162-find-peak-element) |
@@ -171,4 +173,8 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/parassetia889/DSA-journey/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/parassetia889/DSA-journey/tree/master/1720-crawler-log-folder) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/parassetia889/DSA-journey/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
