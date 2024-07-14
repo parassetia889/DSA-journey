@@ -1,34 +1,44 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        
-        double median = 0;
-        int n = nums1.length;
-        int m = nums2.length;
-        
-        int[] arr = new int[m+n];
+
+        int m = nums1.length;
+        int n = nums2.length;
+
+        int newArr[] = new int[m+n];
         int i = 0, j = 0, k = 0;
-        
-        while(i<n && j < m){
-            
-            if(nums1[i] < nums2[j])
-                arr[k++] = nums1[i++];
-            else
-                arr[k++] = nums2[j++];
+        double median = 0;
+
+        while(i < m && j < n){
+            if(nums1[i] < nums2[j]){
+                newArr[k] = nums1[i];
+                i++; k++;
+            }
+            else{
+                newArr[k] = nums2[j];
+                j++; k++;
+            }
+        }   
+
+        while(i < m && k < newArr.length){
+            newArr[k] = nums1[i];
+            i++; k++;
         }
-        
-        while(i < n && k < arr.length)
-            arr[k++] = nums1[i++];
-        
-         while(j < m)
-            arr[k++] = nums2[j++];
-        
-        if(arr.length %2 == 1){
-            median = arr[arr.length/2];
+
+        while(j < n && k < newArr.length){
+            newArr[k] = nums2[j];
+            j++; k++;
         }
-        // If total elements are EVEN
+
+        if(newArr.length%2 != 0)
+            median = newArr[newArr.length/2];
         else{
-            median = (double)(arr[(arr.length/2) - 1] + arr[arr.length/2])/2;
+            int val1 = newArr[newArr.length/2];
+            int val2 = newArr[(newArr.length/2) - 1];
+            median = (val1+val2)/2.0;
+
+            // median = (double)(newArr[(newArr.length/2) - 1] + newArr[newArr.length/2])/2;
         }
+
         return median;
     }
 }
