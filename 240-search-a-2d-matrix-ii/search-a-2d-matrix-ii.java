@@ -1,28 +1,21 @@
 class Solution {
-
-    public static int bs(int[] mat, int target){
-        int start = 0, end = mat.length-1;
-
-        while(start <= end){
-            int mid = (start + end)/2;
-
-            if(mat[mid] == target)
-                return mid;
-            else if(mat[mid] > target)
-                end = mid-1;
-            else
-                start = mid+1;
-        }
-
-        return -1;
-    }
     public boolean searchMatrix(int[][] matrix, int target) {
         
-        for(int i = 0; i < matrix.length; i++){
+        int row = matrix.length, col = matrix[0].length;
 
-            if(bs(matrix[i], target) != -1)
+        int rowIndx = 0, colIndx = col-1;
+
+        while(rowIndx < row && colIndx >= 0){
+            int ele = matrix[rowIndx][colIndx];
+            
+            if(ele == target)
                 return true;
+            else if(ele > target)
+                colIndx--;
+            else
+                rowIndx++;
         }
-            return false;
+
+        return false;
     }
 }
