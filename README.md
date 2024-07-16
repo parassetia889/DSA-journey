@@ -103,6 +103,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1646-kth-missing-positive-number](https://github.com/parassetia889/DSA-journey/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/parassetia889/DSA-journey/tree/master/1675-magnetic-force-between-two-balls) |
 | [1720-crawler-log-folder](https://github.com/parassetia889/DSA-journey/tree/master/1720-crawler-log-folder) |
+| [2047-find-a-peak-element-ii](https://github.com/parassetia889/DSA-journey/tree/master/2047-find-a-peak-element-ii) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/parassetia889/DSA-journey/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2737-row-with-maximum-ones](https://github.com/parassetia889/DSA-journey/tree/master/2737-row-with-maximum-ones) |
 ## Binary Search
@@ -124,6 +125,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/parassetia889/DSA-journey/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/parassetia889/DSA-journey/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/parassetia889/DSA-journey/tree/master/1675-magnetic-force-between-two-balls) |
+| [2047-find-a-peak-element-ii](https://github.com/parassetia889/DSA-journey/tree/master/2047-find-a-peak-element-ii) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/parassetia889/DSA-journey/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Math
 |  |
@@ -188,5 +190,6 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/parassetia889/DSA-journey/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/parassetia889/DSA-journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/parassetia889/DSA-journey/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/parassetia889/DSA-journey/tree/master/2737-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
