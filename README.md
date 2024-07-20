@@ -130,6 +130,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/parassetia889/DSA-journey/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/parassetia889/DSA-journey/tree/master/0069-sqrtx) |
 | [1642-water-bottles](https://github.com/parassetia889/DSA-journey/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/parassetia889/DSA-journey/tree/master/2645-pass-the-pillow) |
@@ -156,6 +157,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/parassetia889/DSA-journey/tree/master/0002-add-two-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/parassetia889/DSA-journey/tree/master/0908-middle-of-the-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/parassetia889/DSA-journey/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -194,4 +196,8 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0240-search-a-2d-matrix-ii](https://github.com/parassetia889/DSA-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/parassetia889/DSA-journey/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/parassetia889/DSA-journey/tree/master/2737-row-with-maximum-ones) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/parassetia889/DSA-journey/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
