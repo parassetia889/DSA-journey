@@ -103,6 +103,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1646-kth-missing-positive-number](https://github.com/parassetia889/DSA-journey/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/parassetia889/DSA-journey/tree/master/1675-magnetic-force-between-two-balls) |
 | [1720-crawler-log-folder](https://github.com/parassetia889/DSA-journey/tree/master/1720-crawler-log-folder) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/parassetia889/DSA-journey/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2047-find-a-peak-element-ii](https://github.com/parassetia889/DSA-journey/tree/master/2047-find-a-peak-element-ii) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/parassetia889/DSA-journey/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2502-sort-the-people](https://github.com/parassetia889/DSA-journey/tree/master/2502-sort-the-people) |
@@ -139,6 +140,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/parassetia889/DSA-journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/parassetia889/DSA-journey/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/parassetia889/DSA-journey/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
@@ -151,6 +153,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0350-intersection-of-two-arrays-ii](https://github.com/parassetia889/DSA-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/parassetia889/DSA-journey/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1675-magnetic-force-between-two-balls](https://github.com/parassetia889/DSA-journey/tree/master/1675-magnetic-force-between-two-balls) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/parassetia889/DSA-journey/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/parassetia889/DSA-journey/tree/master/2502-sort-the-people) |
 ## Greedy
 |  |
