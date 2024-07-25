@@ -1,32 +1,30 @@
-public class Solution {
-
+class Solution {
     public int[] sortJumbled(int[] mapping, int[] nums) {
-        List<int[]> storePairs = new ArrayList<int[]>();
+        
+        List<int[]> pairs = new ArrayList<>();
 
-        for (int i = 0; i < nums.length; i++) {
-            int mappedValue = 0;
-            int temp = nums[i];
-            int place = 1;
+        int i = 0;
+        for(int num : nums){
+            String number = Integer.toString(num);
+            StringBuilder mapped = new StringBuilder();
 
-            if (temp == 0) {
-                storePairs.add(new int[] { mapping[0], i });
-                continue;
+            for(char ch : number.toCharArray()){
+                mapped.append(mapping[ch-'0']);
             }
-            while (temp != 0) {
-                mappedValue = place * mapping[temp % 10] + mappedValue;
-                place *= 10;
-                temp /= 10;
-            }
-            storePairs.add(new int[] { mappedValue, i });
+
+            int mappedResult = Integer.parseInt(mapped.toString());
+            pairs.add(new int[]{mappedResult, i});
+            i++;
         }
 
-        Collections.sort(storePairs, (a, b) -> a[0] - b[0]);
+        pairs.sort((a,b) -> Integer.compare(a[0], b[0]));
 
-        int[] answer = new int[nums.length];
-        for (int i = 0; i < storePairs.size(); i++) {
-            answer[i] = nums[storePairs.get(i)[1]];
+
+        int[] res = new int[nums.length];
+        for(int j = 0; j < nums.length; j++){
+            res[j] = nums[pairs.get(j)[1]];
         }
 
-        return answer;
+        return res;
     }
 }
