@@ -148,6 +148,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/parassetia889/DSA-journey/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/parassetia889/DSA-journey/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/parassetia889/DSA-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/parassetia889/DSA-journey/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
@@ -170,6 +171,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0002-add-two-numbers](https://github.com/parassetia889/DSA-journey/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/parassetia889/DSA-journey/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/parassetia889/DSA-journey/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/parassetia889/DSA-journey/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/parassetia889/DSA-journey/tree/master/0908-middle-of-the-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/parassetia889/DSA-journey/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -196,6 +198,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/parassetia889/DSA-journey/tree/master/0234-palindrome-linked-list) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/parassetia889/DSA-journey/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/parassetia889/DSA-journey/tree/master/1720-crawler-log-folder) |
 ## Divide and Conquer
@@ -215,6 +218,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/parassetia889/DSA-journey/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/parassetia889/DSA-journey/tree/master/0234-palindrome-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
