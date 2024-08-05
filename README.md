@@ -107,6 +107,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1720-crawler-log-folder](https://github.com/parassetia889/DSA-journey/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/parassetia889/DSA-journey/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2047-find-a-peak-element-ii](https://github.com/parassetia889/DSA-journey/tree/master/2047-find-a-peak-element-ii) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/parassetia889/DSA-journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/parassetia889/DSA-journey/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2502-sort-the-people](https://github.com/parassetia889/DSA-journey/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/parassetia889/DSA-journey/tree/master/2727-number-of-senior-citizens) |
@@ -144,6 +145,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/parassetia889/DSA-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/parassetia889/DSA-journey/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/parassetia889/DSA-journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/parassetia889/DSA-journey/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
@@ -196,6 +198,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/parassetia889/DSA-journey/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/parassetia889/DSA-journey/tree/master/1720-crawler-log-folder) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/parassetia889/DSA-journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/parassetia889/DSA-journey/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/parassetia889/DSA-journey/tree/master/2727-number-of-senior-citizens) |
 ## Stack
@@ -243,4 +246,5 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/parassetia889/DSA-journey/tree/master/0948-sort-an-array) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/parassetia889/DSA-journey/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
