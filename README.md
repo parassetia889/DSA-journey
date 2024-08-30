@@ -199,6 +199,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## String
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/parassetia889/DSA-journey/tree/master/0812-rotate-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/parassetia889/DSA-journey/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/parassetia889/DSA-journey/tree/master/1720-crawler-log-folder) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/parassetia889/DSA-journey/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -280,4 +281,8 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/parassetia889/DSA-journey/tree/master/0145-binary-tree-postorder-traversal) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/parassetia889/DSA-journey/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
