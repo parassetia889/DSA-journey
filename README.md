@@ -183,6 +183,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0148-sort-list](https://github.com/parassetia889/DSA-journey/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/parassetia889/DSA-journey/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/parassetia889/DSA-journey/tree/master/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/parassetia889/DSA-journey/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/parassetia889/DSA-journey/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/parassetia889/DSA-journey/tree/master/0908-middle-of-the-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/parassetia889/DSA-journey/tree/master/2299-merge-nodes-in-between-zeros) |
