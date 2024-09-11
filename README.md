@@ -94,6 +94,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0350-intersection-of-two-arrays-ii](https://github.com/parassetia889/DSA-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/parassetia889/DSA-journey/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/parassetia889/DSA-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/parassetia889/DSA-journey/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0906-walking-robot-simulation](https://github.com/parassetia889/DSA-journey/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/parassetia889/DSA-journey/tree/master/0907-koko-eating-bananas) |
@@ -148,6 +149,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0128-longest-consecutive-sequence](https://github.com/parassetia889/DSA-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/parassetia889/DSA-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/parassetia889/DSA-journey/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/parassetia889/DSA-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0906-walking-robot-simulation](https://github.com/parassetia889/DSA-journey/tree/master/0906-walking-robot-simulation) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/parassetia889/DSA-journey/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/parassetia889/DSA-journey/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -206,6 +208,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/parassetia889/DSA-journey/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/parassetia889/DSA-journey/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
