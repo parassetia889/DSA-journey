@@ -1,14 +1,12 @@
 class Solution {
     public int minBitFlips(int start, int goal) {
         
-        int count = 0;
-        
-        while(start > 0 || goal > 0){
-            if((start&1) != (goal&1))
-                count++;
+        int xorRes = start ^ goal;
 
-            start >>= 1;
-            goal >>= 1;
+        int count = 0;
+        while(xorRes != 0){
+            count += xorRes&1;
+            xorRes >>= 1;
         }
 
         return count;
