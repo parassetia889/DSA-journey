@@ -10,34 +10,36 @@
  */
 class Solution {
     public ListNode[] splitListToParts(ListNode head, int k) {
-        
+
         ListNode[] res = new ListNode[k];
-        int size = 0;
         ListNode curr = head;
 
+        int size = 0;
         while(curr != null){
             size++;
             curr = curr.next;
         }
+
         int minSize = size/k;
-        int remainingNodes = size%k;
+        int leftOut = size%k;
         curr = head;
 
         for(int i = 0; i < k; i++){
             ListNode newPart = new ListNode(0);
             ListNode tail = newPart;
 
+            
             int currSize = minSize;
-            if(remainingNodes > 0){
+            if(leftOut > 0){
                 currSize++;
-                remainingNodes--;
+                leftOut--;
             }
-            int j = 0;
-            while(j < currSize){
+            int count = 0;
+            while(count < currSize){
                 tail.next = new ListNode(curr.val);
-                tail = tail.next;
-                j++;
                 curr = curr.next;
+                tail = tail.next;
+                count++;
             }
             res[i] = newPart.next;
         }
