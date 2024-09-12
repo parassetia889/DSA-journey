@@ -109,6 +109,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1675-magnetic-force-between-two-balls](https://github.com/parassetia889/DSA-journey/tree/master/1675-magnetic-force-between-two-balls) |
 | [1720-crawler-log-folder](https://github.com/parassetia889/DSA-journey/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/parassetia889/DSA-journey/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/parassetia889/DSA-journey/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2047-find-a-peak-element-ii](https://github.com/parassetia889/DSA-journey/tree/master/2047-find-a-peak-element-ii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/parassetia889/DSA-journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/parassetia889/DSA-journey/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -152,6 +153,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0560-subarray-sum-equals-k](https://github.com/parassetia889/DSA-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0906-walking-robot-simulation](https://github.com/parassetia889/DSA-journey/tree/master/0906-walking-robot-simulation) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/parassetia889/DSA-journey/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/parassetia889/DSA-journey/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/parassetia889/DSA-journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/parassetia889/DSA-journey/tree/master/2502-sort-the-people) |
 ## Two Pointers
@@ -217,6 +219,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0812-rotate-string](https://github.com/parassetia889/DSA-journey/tree/master/0812-rotate-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/parassetia889/DSA-journey/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/parassetia889/DSA-journey/tree/master/1720-crawler-log-folder) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/parassetia889/DSA-journey/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/parassetia889/DSA-journey/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/parassetia889/DSA-journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/parassetia889/DSA-journey/tree/master/2502-sort-the-people) |
@@ -273,6 +276,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/parassetia889/DSA-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/parassetia889/DSA-journey/tree/master/0948-sort-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/parassetia889/DSA-journey/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/parassetia889/DSA-journey/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Tree
 |  |
@@ -315,5 +319,6 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/parassetia889/DSA-journey/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/parassetia889/DSA-journey/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
