@@ -114,6 +114,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2163-kth-distinct-string-in-an-array](https://github.com/parassetia889/DSA-journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/parassetia889/DSA-journey/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2502-sort-the-people](https://github.com/parassetia889/DSA-journey/tree/master/2502-sort-the-people) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/parassetia889/DSA-journey/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/parassetia889/DSA-journey/tree/master/2727-number-of-senior-citizens) |
 | [2737-row-with-maximum-ones](https://github.com/parassetia889/DSA-journey/tree/master/2737-row-with-maximum-ones) |
 ## Binary Search
@@ -321,4 +322,9 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/parassetia889/DSA-journey/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/parassetia889/DSA-journey/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/parassetia889/DSA-journey/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/parassetia889/DSA-journey/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
