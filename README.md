@@ -90,6 +90,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0128-longest-consecutive-sequence](https://github.com/parassetia889/DSA-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/parassetia889/DSA-journey/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/parassetia889/DSA-journey/tree/master/0179-largest-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/parassetia889/DSA-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/parassetia889/DSA-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/parassetia889/DSA-journey/tree/master/0410-split-array-largest-sum) |
@@ -173,6 +174,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/parassetia889/DSA-journey/tree/master/0148-sort-list) |
+| [0179-largest-number](https://github.com/parassetia889/DSA-journey/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/parassetia889/DSA-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/parassetia889/DSA-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/parassetia889/DSA-journey/tree/master/0539-minimum-time-difference) |
@@ -185,6 +187,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/parassetia889/DSA-journey/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/parassetia889/DSA-journey/tree/master/0410-split-array-largest-sum) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/parassetia889/DSA-journey/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Linked List
@@ -224,6 +227,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/parassetia889/DSA-journey/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/parassetia889/DSA-journey/tree/master/0022-generate-parentheses) |
+| [0179-largest-number](https://github.com/parassetia889/DSA-journey/tree/master/0179-largest-number) |
 | [0451-sort-characters-by-frequency](https://github.com/parassetia889/DSA-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/parassetia889/DSA-journey/tree/master/0539-minimum-time-difference) |
 | [0812-rotate-string](https://github.com/parassetia889/DSA-journey/tree/master/0812-rotate-string) |
