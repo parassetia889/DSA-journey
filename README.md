@@ -93,6 +93,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0179-largest-number](https://github.com/parassetia889/DSA-journey/tree/master/0179-largest-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/parassetia889/DSA-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/parassetia889/DSA-journey/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/parassetia889/DSA-journey/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/parassetia889/DSA-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/parassetia889/DSA-journey/tree/master/0410-split-array-largest-sum) |
 | [0539-minimum-time-difference](https://github.com/parassetia889/DSA-journey/tree/master/0539-minimum-time-difference) |
@@ -172,6 +173,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/parassetia889/DSA-journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/parassetia889/DSA-journey/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/parassetia889/DSA-journey/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/parassetia889/DSA-journey/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/parassetia889/DSA-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/parassetia889/DSA-journey/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
