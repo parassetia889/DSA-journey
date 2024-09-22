@@ -86,6 +86,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/parassetia889/DSA-journey/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/parassetia889/DSA-journey/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/parassetia889/DSA-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -171,6 +172,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/parassetia889/DSA-journey/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0148-sort-list](https://github.com/parassetia889/DSA-journey/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/parassetia889/DSA-journey/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/parassetia889/DSA-journey/tree/master/0283-move-zeroes) |
