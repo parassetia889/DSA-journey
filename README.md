@@ -91,6 +91,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0128-longest-consecutive-sequence](https://github.com/parassetia889/DSA-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/parassetia889/DSA-journey/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/parassetia889/DSA-journey/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/parassetia889/DSA-journey/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/parassetia889/DSA-journey/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/parassetia889/DSA-journey/tree/master/0240-search-a-2d-matrix-ii) |
@@ -163,6 +164,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/parassetia889/DSA-journey/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/parassetia889/DSA-journey/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/parassetia889/DSA-journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/parassetia889/DSA-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/parassetia889/DSA-journey/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -192,6 +194,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/parassetia889/DSA-journey/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/parassetia889/DSA-journey/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/parassetia889/DSA-journey/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/parassetia889/DSA-journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/parassetia889/DSA-journey/tree/master/0349-intersection-of-two-arrays) |
@@ -273,6 +276,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/parassetia889/DSA-journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/parassetia889/DSA-journey/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/parassetia889/DSA-journey/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/parassetia889/DSA-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/parassetia889/DSA-journey/tree/master/0948-sort-an-array) |
 ## Matrix
@@ -311,6 +315,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/parassetia889/DSA-journey/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/parassetia889/DSA-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/parassetia889/DSA-journey/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/parassetia889/DSA-journey/tree/master/0948-sort-an-array) |
