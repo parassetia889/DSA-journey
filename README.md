@@ -85,6 +85,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/parassetia889/DSA-journey/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/parassetia889/DSA-journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/parassetia889/DSA-journey/tree/master/0074-search-a-2d-matrix) |
@@ -163,6 +164,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/parassetia889/DSA-journey/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/parassetia889/DSA-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/parassetia889/DSA-journey/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/parassetia889/DSA-journey/tree/master/0268-missing-number) |
