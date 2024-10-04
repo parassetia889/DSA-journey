@@ -272,6 +272,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/parassetia889/DSA-journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/parassetia889/DSA-journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/parassetia889/DSA-journey/tree/master/0234-palindrome-linked-list) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/parassetia889/DSA-journey/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -329,6 +330,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/parassetia889/DSA-journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/parassetia889/DSA-journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/parassetia889/DSA-journey/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
@@ -342,6 +344,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/parassetia889/DSA-journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/parassetia889/DSA-journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/parassetia889/DSA-journey/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -351,6 +354,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/parassetia889/DSA-journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/parassetia889/DSA-journey/tree/master/0145-binary-tree-postorder-traversal) |
 ## String Matching
 |  |
