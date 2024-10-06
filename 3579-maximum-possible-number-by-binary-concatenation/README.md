@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-possible-number-by-binary-concatenation">3579. Maximum Possible Number by Binary Concatenation</a></h2><h3>Medium</h3><hr><p>You are given an array of integers <code>nums</code> of size 3.</p>
+<h2><a href="https://leetcode.com/problems/maximum-possible-number-by-binary-concatenation">Maximum Possible Number by Binary Concatenation</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an array of integers <code>nums</code> of size 3.</p>
 
 <p>Return the <strong>maximum</strong> possible number whose <em>binary representation</em> can be formed by <strong>concatenating</strong> the <em>binary representation</em> of <strong>all</strong> elements in <code>nums</code> in some order.</p>
 
