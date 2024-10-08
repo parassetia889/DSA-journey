@@ -4,18 +4,10 @@ class Solution {
         while(s.contains("AB") || s.contains("CD")){
             
             if(s.contains("AB")){
-                int indx = s.indexOf("AB");
-                if(indx == 0)
-                    s = s.substring(indx+2);
-                else
-                    s = s.substring(0, indx) + s.substring(indx+2);
+                s = s.replace("AB","");
             }
             else{
-                int indx = s.indexOf("CD");
-                if(indx == 0)
-                    s = s.substring(indx+2);
-                else
-                    s = s.substring(0, indx) + s.substring(indx+2);
+                s = s.replace("CD","");
             }
             
         }
