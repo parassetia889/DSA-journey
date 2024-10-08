@@ -1,17 +1,17 @@
 class Solution {
     public int minLength(String s) {
         
-        while(s.contains("AB") || s.contains("CD")){
-            
-            if(s.contains("AB")){
-                s = s.replace("AB","");
-            }
-            else{
-                s = s.replace("CD","");
-            }
-            
+        Stack<Character> st = new Stack<>();
+
+        for(char ch : s.toCharArray()){
+            if(st.isEmpty())
+                st.push(ch);
+            else if(st.peek() == 'A' && ch == 'B' || st.peek() == 'C' && ch == 'D')
+                st.pop();
+            else
+                st.push(ch);
         }
 
-        return s.length();
+        return st.size();
     }
 }
