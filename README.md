@@ -89,6 +89,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0004-median-of-two-sorted-arrays](https://github.com/parassetia889/DSA-journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/parassetia889/DSA-journey/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/parassetia889/DSA-journey/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/parassetia889/DSA-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/parassetia889/DSA-journey/tree/master/0162-find-peak-element) |
@@ -187,6 +188,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/parassetia889/DSA-journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/parassetia889/DSA-journey/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/parassetia889/DSA-journey/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/parassetia889/DSA-journey/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/parassetia889/DSA-journey/tree/master/0234-palindrome-linked-list) |
@@ -199,6 +201,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/parassetia889/DSA-journey/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/parassetia889/DSA-journey/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/parassetia889/DSA-journey/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/parassetia889/DSA-journey/tree/master/0179-largest-number) |
