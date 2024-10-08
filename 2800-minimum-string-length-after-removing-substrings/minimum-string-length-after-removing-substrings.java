@@ -1,23 +1,25 @@
 class Solution {
     public int minLength(String s) {
-        // Using a stack to track characters
-        StringBuilder stack = new StringBuilder();
         
-        for (char c : s.toCharArray()) {
-            stack.append(c);
+        while(s.contains("AB") || s.contains("CD")){
             
-            // If the last two characters in the stack form "AB" or "CD", remove them
-            int length = stack.length();
-            if (length >= 2) {
-                String lastTwo = stack.substring(length - 2);
-                if (lastTwo.equals("AB") || lastTwo.equals("CD")) {
-                    // Remove the last two characters
-                    stack.delete(length - 2, length);
-                }
+            if(s.contains("AB")){
+                int indx = s.indexOf("AB");
+                if(indx == 0)
+                    s = s.substring(indx+2);
+                else
+                    s = s.substring(0, indx) + s.substring(indx+2);
             }
+            else{
+                int indx = s.indexOf("CD");
+                if(indx == 0)
+                    s = s.substring(indx+2);
+                else
+                    s = s.substring(0, indx) + s.substring(indx+2);
+            }
+            
         }
-        
-        // The length of the remaining string in the stack is the answer
-        return stack.length();
+
+        return s.length();
     }
 }
