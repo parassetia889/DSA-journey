@@ -131,6 +131,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2271-rearrange-array-elements-by-sign](https://github.com/parassetia889/DSA-journey/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2502-sort-the-people](https://github.com/parassetia889/DSA-journey/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/parassetia889/DSA-journey/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/parassetia889/DSA-journey/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/parassetia889/DSA-journey/tree/master/2727-number-of-senior-citizens) |
 | [2737-row-with-maximum-ones](https://github.com/parassetia889/DSA-journey/tree/master/2737-row-with-maximum-ones) |
 ## Binary Search
@@ -229,6 +230,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0179-largest-number](https://github.com/parassetia889/DSA-journey/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/parassetia889/DSA-journey/tree/master/0410-split-array-largest-sum) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/parassetia889/DSA-journey/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/parassetia889/DSA-journey/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Linked List
 |  |
 | ------- |
@@ -319,6 +321,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0451-sort-characters-by-frequency](https://github.com/parassetia889/DSA-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/parassetia889/DSA-journey/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/parassetia889/DSA-journey/tree/master/0948-sort-an-array) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/parassetia889/DSA-journey/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Merge Sort
 |  |
 | ------- |
