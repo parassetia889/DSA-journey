@@ -134,6 +134,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/parassetia889/DSA-journey/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/parassetia889/DSA-journey/tree/master/2727-number-of-senior-citizens) |
 | [2737-row-with-maximum-ones](https://github.com/parassetia889/DSA-journey/tree/master/2737-row-with-maximum-ones) |
+| [3579-maximum-possible-number-by-binary-concatenation](https://github.com/parassetia889/DSA-journey/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Binary Search
 |  |
 | ------- |
@@ -394,6 +395,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1786-count-the-number-of-consistent-strings](https://github.com/parassetia889/DSA-journey/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/parassetia889/DSA-journey/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/parassetia889/DSA-journey/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3579-maximum-possible-number-by-binary-concatenation](https://github.com/parassetia889/DSA-journey/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Brainteaser
 |  |
 | ------- |
@@ -406,4 +408,8 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/parassetia889/DSA-journey/tree/master/0567-permutation-in-string) |
+## Enumeration
+|  |
+| ------- |
+| [3579-maximum-possible-number-by-binary-concatenation](https://github.com/parassetia889/DSA-journey/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 <!---LeetCode Topics End-->
