@@ -132,6 +132,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2502-sort-the-people](https://github.com/parassetia889/DSA-journey/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/parassetia889/DSA-journey/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/parassetia889/DSA-journey/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/parassetia889/DSA-journey/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/parassetia889/DSA-journey/tree/master/2727-number-of-senior-citizens) |
 | [2737-row-with-maximum-ones](https://github.com/parassetia889/DSA-journey/tree/master/2737-row-with-maximum-ones) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/parassetia889/DSA-journey/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
@@ -161,6 +162,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1675-magnetic-force-between-two-balls](https://github.com/parassetia889/DSA-journey/tree/master/1675-magnetic-force-between-two-balls) |
 | [2047-find-a-peak-element-ii](https://github.com/parassetia889/DSA-journey/tree/master/2047-find-a-peak-element-ii) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/parassetia889/DSA-journey/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/parassetia889/DSA-journey/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Math
 |  |
 | ------- |
@@ -206,6 +208,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0567-permutation-in-string](https://github.com/parassetia889/DSA-journey/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/parassetia889/DSA-journey/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/parassetia889/DSA-journey/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/parassetia889/DSA-journey/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -225,6 +228,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1675-magnetic-force-between-two-balls](https://github.com/parassetia889/DSA-journey/tree/master/1675-magnetic-force-between-two-balls) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/parassetia889/DSA-journey/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/parassetia889/DSA-journey/tree/master/2502-sort-the-people) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/parassetia889/DSA-journey/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Greedy
 |  |
 | ------- |
