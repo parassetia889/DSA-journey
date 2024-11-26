@@ -99,6 +99,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0169-majority-element](https://github.com/parassetia889/DSA-journey/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/parassetia889/DSA-journey/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/parassetia889/DSA-journey/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/parassetia889/DSA-journey/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/parassetia889/DSA-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/parassetia889/DSA-journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/parassetia889/DSA-journey/tree/master/0283-move-zeroes) |
@@ -267,6 +268,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/parassetia889/DSA-journey/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/parassetia889/DSA-journey/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/parassetia889/DSA-journey/tree/master/0560-subarray-sum-equals-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/parassetia889/DSA-journey/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
