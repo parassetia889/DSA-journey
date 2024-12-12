@@ -3,46 +3,51 @@ class Solution {
         
         int[] arr = new int[]{-1,-1};
 
-        arr[0] = firstOccurence(nums, target);
-        arr[1] = lastOccurence(nums, target);
+        arr[0] = findFirst(nums, target);
+        arr[1] = findLast(nums, target);
 
         return arr;
     }
 
-    public static int firstOccurence(int[] nums, int target){
-        int s = 0, e = nums.length-1;
+    public int findFirst(int[] nums, int target){
 
+        int n = nums.length;
+        int low = 0, high = n-1;
         int ans = -1;
-        while(s <= e){
-            int mid = (s+e)/2;
+
+        while(low <= high){
+
+            int mid = (low+high)/2;
 
             if(nums[mid] == target){
                 ans = mid;
-                e = mid-1;
-            }
-            else if(nums[mid] > target)
-                e = mid-1;
+                high = mid-1;
+            }else if(nums[mid] < target)
+                low = mid+1;
             else
-                s = mid+1;
+                high = mid-1;
         }
         return ans;
+
     }
 
-    public static int lastOccurence(int[] nums, int target){
-    int s = 0, e = nums.length-1;
-
+    public int findLast(int[] nums, int target){
+        
+        int n = nums.length;
+        int low = 0, high = n-1;
         int ans = -1;
-        while(s <= e){
-            int mid = (s+e)/2;
+
+        while(low <= high){
+
+            int mid = (low+high)/2;
 
             if(nums[mid] == target){
                 ans = mid;
-                s = mid+1;
-            }
-            else if(nums[mid] > target)
-                e = mid-1;
-            else
-                s = mid+1;
+                low = mid+1;
+            }else if(nums[mid] < target){
+                low = mid+1;
+            }else
+                high = mid-1;
         }
         return ans;
     }
