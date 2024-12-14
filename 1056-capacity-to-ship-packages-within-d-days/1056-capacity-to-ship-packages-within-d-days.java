@@ -1,43 +1,44 @@
 class Solution {
+    public int shipWithinDays(int[] weights, int days) {
+        
+        
+        int low = 0, high = 0;
 
-    public static boolean checkWeight(int[] weights, int capacity, int days){
-        int dayRequired = 1;
-
-        int currWeight = 0 ;
         for(int weight : weights){
-            if(currWeight + weight <= capacity)
-                currWeight += weight;
-            else{
-                dayRequired++;
-                currWeight = weight;
-            }
-
+            high += weight;
+            low = Math.max(low,weight);
         }
+        int ans = high;
 
-        return dayRequired <= days;
+        while(low <= high){
+
+            int mid = (low+high)/2;
+            int reqDays = getDaysNeeded(weights, mid);
+
+            if(reqDays <= days){
+                ans = mid;
+                high = mid-1;
+            }
+            else
+                low = mid+1;
+        }
+        return ans;
 
     }
 
-    public int shipWithinDays(int[] weights, int days) {
-        
-        int low = 0, high = 0;
-        
+    public static int getDaysNeeded(int[] weights, int maxWt){
+
+        int daysNeeded = 1;
+        int currWeight = 0;
+
         for(int weight : weights){
-            low = Math.max(low, weight);
-            high += weight;
-        }
-
-        int ans = -1;
-        while(low <= high){
-            int mid = (low+high)/2;
-
-            if(checkWeight(weights, mid, days)){
-                ans = mid;
-                high = mid-1;
-            }else{
-                low = mid+1;
+            if(currWeight + weight <= maxWt)
+                currWeight += weight;
+            else{
+                currWeight = weight;
+                daysNeeded += 1;
             }
         }
-        return ans;
+        return daysNeeded;
     }
 }
