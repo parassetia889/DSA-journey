@@ -285,6 +285,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0567-permutation-in-string](https://github.com/parassetia889/DSA-journey/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/parassetia889/DSA-journey/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/parassetia889/DSA-journey/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/parassetia889/DSA-journey/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/parassetia889/DSA-journey/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/parassetia889/DSA-journey/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1720-crawler-log-folder](https://github.com/parassetia889/DSA-journey/tree/master/1720-crawler-log-folder) |
@@ -300,6 +301,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0144-binary-tree-preorder-traversal](https://github.com/parassetia889/DSA-journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/parassetia889/DSA-journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/parassetia889/DSA-journey/tree/master/0234-palindrome-linked-list) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/parassetia889/DSA-journey/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/parassetia889/DSA-journey/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/parassetia889/DSA-journey/tree/master/1720-crawler-log-folder) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/parassetia889/DSA-journey/tree/master/2800-minimum-string-length-after-removing-substrings) |
