@@ -180,6 +180,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parassetia889/DSA-journey/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/parassetia889/DSA-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/parassetia889/DSA-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/parassetia889/DSA-journey/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/parassetia889/DSA-journey/tree/master/0268-missing-number) |
@@ -278,6 +279,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/parassetia889/DSA-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/parassetia889/DSA-journey/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/parassetia889/DSA-journey/tree/master/0022-generate-parentheses) |
 | [0179-largest-number](https://github.com/parassetia889/DSA-journey/tree/master/0179-largest-number) |
@@ -419,6 +421,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/parassetia889/DSA-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/parassetia889/DSA-journey/tree/master/0567-permutation-in-string) |
 ## Enumeration
 |  |
