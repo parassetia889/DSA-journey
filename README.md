@@ -188,6 +188,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0268-missing-number](https://github.com/parassetia889/DSA-journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/parassetia889/DSA-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/parassetia889/DSA-journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/parassetia889/DSA-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/parassetia889/DSA-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/parassetia889/DSA-journey/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/parassetia889/DSA-journey/tree/master/0560-subarray-sum-equals-k) |
@@ -286,6 +287,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0014-longest-common-prefix](https://github.com/parassetia889/DSA-journey/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/parassetia889/DSA-journey/tree/master/0022-generate-parentheses) |
 | [0179-largest-number](https://github.com/parassetia889/DSA-journey/tree/master/0179-largest-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/parassetia889/DSA-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/parassetia889/DSA-journey/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/parassetia889/DSA-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/parassetia889/DSA-journey/tree/master/0539-minimum-time-difference) |
@@ -427,6 +429,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parassetia889/DSA-journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/parassetia889/DSA-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/parassetia889/DSA-journey/tree/master/0567-permutation-in-string) |
 ## Enumeration
 |  |
