@@ -4,26 +4,20 @@ class Solution {
         if(s.length() <= 1)
             return s.length();
 
+        Set<Character> set = new HashSet<>();
+        int max = 0;
 
         int start = 0, end = 0;
-        int maxLen = Integer.MIN_VALUE;
-        Set<Character> set = new HashSet<>();
 
-        while(end < s.length()){
-            char ch = s.charAt(end);
-            if(set.contains(ch)){
+        for(char ch : s.toCharArray()){
+            while( !set.isEmpty() && set.contains(ch)){
                 set.remove(s.charAt(start));
                 start++;
-                // set.remove(ch);
-                // maxLen = Math.max(maxLen, end-start+1);
-            }else{
-                set.add(ch);
-                end++;
-                
-                }
-                maxLen = Math.max(maxLen, set.size());
+            }
+            set.add(ch);
+            end++;
+            max = Math.max(max, set.size());
         }
-
-            return maxLen;
+    return max;
     }
 }
