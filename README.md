@@ -87,6 +87,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0001-two-sum](https://github.com/parassetia889/DSA-journey/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/parassetia889/DSA-journey/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/parassetia889/DSA-journey/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -204,6 +205,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/parassetia889/DSA-journey/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/parassetia889/DSA-journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/parassetia889/DSA-journey/tree/master/0075-sort-colors) |
@@ -241,6 +243,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/parassetia889/DSA-journey/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/parassetia889/DSA-journey/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/parassetia889/DSA-journey/tree/master/0410-split-array-largest-sum) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/parassetia889/DSA-journey/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
