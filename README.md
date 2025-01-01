@@ -284,6 +284,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0410-split-array-largest-sum](https://github.com/parassetia889/DSA-journey/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/parassetia889/DSA-journey/tree/master/0560-subarray-sum-equals-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/parassetia889/DSA-journey/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/parassetia889/DSA-journey/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## String
 |  |
 | ------- |
@@ -302,6 +303,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/parassetia889/DSA-journey/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/parassetia889/DSA-journey/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/parassetia889/DSA-journey/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/parassetia889/DSA-journey/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1720-crawler-log-folder](https://github.com/parassetia889/DSA-journey/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/parassetia889/DSA-journey/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/parassetia889/DSA-journey/tree/master/2076-sum-of-digits-of-string-after-convert) |
