@@ -3,12 +3,13 @@ class Solution {
         
         String[] arr = s.trim().split(" ");
 
-        String rev = "";
+        StringBuilder sb = new StringBuilder();
+
         for(int i = arr.length-1; i >= 0; i--){
             if(arr[i] != "")
-                rev += arr[i]+" ";
+                sb.append(arr[i]+" ");
         }
 
-        return rev.trim();
+        return sb.toString().trim();
     }
 }
