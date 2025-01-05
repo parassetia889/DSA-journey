@@ -3,11 +3,10 @@ class Solution {
         
         if(s.length() <= 1)
             return s.length();
-
-        Set<Character> set = new HashSet<>();
-        int max = 0;
-
+            
+        int ans = 1;
         int start = 0, end = 0;
+        Set<Character> set = new HashSet<>();
 
         for(char ch : s.toCharArray()){
             while( !set.isEmpty() && set.contains(ch)){
@@ -16,8 +15,9 @@ class Solution {
             }
             set.add(ch);
             end++;
-            max = Math.max(max, set.size());
+            ans = Math.max(ans, set.size());
         }
-    return max;
+
+        return ans;
     }
 }
