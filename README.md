@@ -208,6 +208,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1786-count-the-number-of-consistent-strings](https://github.com/parassetia889/DSA-journey/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/parassetia889/DSA-journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/parassetia889/DSA-journey/tree/master/2502-sort-the-people) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/parassetia889/DSA-journey/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -323,6 +324,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2502-sort-the-people](https://github.com/parassetia889/DSA-journey/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/parassetia889/DSA-journey/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/parassetia889/DSA-journey/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/parassetia889/DSA-journey/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
 | ------- |
@@ -391,6 +393,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0948-sort-an-array](https://github.com/parassetia889/DSA-journey/tree/master/0948-sort-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/parassetia889/DSA-journey/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/parassetia889/DSA-journey/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/parassetia889/DSA-journey/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Tree
 |  |
 | ------- |
