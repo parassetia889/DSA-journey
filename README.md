@@ -145,6 +145,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2699-count-the-number-of-fair-pairs](https://github.com/parassetia889/DSA-journey/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/parassetia889/DSA-journey/tree/master/2727-number-of-senior-citizens) |
 | [2737-row-with-maximum-ones](https://github.com/parassetia889/DSA-journey/tree/master/2737-row-with-maximum-ones) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/parassetia889/DSA-journey/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/parassetia889/DSA-journey/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Binary Search
 |  |
@@ -208,6 +209,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1786-count-the-number-of-consistent-strings](https://github.com/parassetia889/DSA-journey/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/parassetia889/DSA-journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/parassetia889/DSA-journey/tree/master/2502-sort-the-people) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/parassetia889/DSA-journey/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/parassetia889/DSA-journey/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Two Pointers
 |  |
@@ -443,6 +445,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1786-count-the-number-of-consistent-strings](https://github.com/parassetia889/DSA-journey/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/parassetia889/DSA-journey/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/parassetia889/DSA-journey/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/parassetia889/DSA-journey/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/parassetia889/DSA-journey/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Brainteaser
 |  |
