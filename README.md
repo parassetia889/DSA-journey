@@ -146,6 +146,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2727-number-of-senior-citizens](https://github.com/parassetia889/DSA-journey/tree/master/2727-number-of-senior-citizens) |
 | [2737-row-with-maximum-ones](https://github.com/parassetia889/DSA-journey/tree/master/2737-row-with-maximum-ones) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/parassetia889/DSA-journey/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3429-special-array-i](https://github.com/parassetia889/DSA-journey/tree/master/3429-special-array-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/parassetia889/DSA-journey/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Binary Search
 |  |
