@@ -208,6 +208,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/parassetia889/DSA-journey/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/parassetia889/DSA-journey/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/parassetia889/DSA-journey/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/parassetia889/DSA-journey/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/parassetia889/DSA-journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/parassetia889/DSA-journey/tree/master/2502-sort-the-people) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/parassetia889/DSA-journey/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -322,6 +323,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/parassetia889/DSA-journey/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1720-crawler-log-folder](https://github.com/parassetia889/DSA-journey/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/parassetia889/DSA-journey/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/parassetia889/DSA-journey/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/parassetia889/DSA-journey/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/parassetia889/DSA-journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/parassetia889/DSA-journey/tree/master/2502-sort-the-people) |
@@ -395,6 +397,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0920-uncommon-words-from-two-sentences](https://github.com/parassetia889/DSA-journey/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/parassetia889/DSA-journey/tree/master/0948-sort-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/parassetia889/DSA-journey/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/parassetia889/DSA-journey/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/parassetia889/DSA-journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/parassetia889/DSA-journey/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Tree
