@@ -286,6 +286,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2299-merge-nodes-in-between-zeros](https://github.com/parassetia889/DSA-journey/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/parassetia889/DSA-journey/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/parassetia889/DSA-journey/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/parassetia889/DSA-journey/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -329,6 +330,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2502-sort-the-people](https://github.com/parassetia889/DSA-journey/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/parassetia889/DSA-journey/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/parassetia889/DSA-journey/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/parassetia889/DSA-journey/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/parassetia889/DSA-journey/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
@@ -342,6 +344,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/parassetia889/DSA-journey/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-crawler-log-folder](https://github.com/parassetia889/DSA-journey/tree/master/1720-crawler-log-folder) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/parassetia889/DSA-journey/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/parassetia889/DSA-journey/tree/master/3447-clear-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
