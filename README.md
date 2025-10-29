@@ -227,6 +227,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/parassetia889/DSA-journey/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/parassetia889/DSA-journey/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/parassetia889/DSA-journey/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/parassetia889/DSA-journey/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/parassetia889/DSA-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/parassetia889/DSA-journey/tree/master/0189-rotate-array) |
@@ -319,6 +320,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0003-longest-substring-without-repeating-characters](https://github.com/parassetia889/DSA-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/parassetia889/DSA-journey/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/parassetia889/DSA-journey/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/parassetia889/DSA-journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/parassetia889/DSA-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/parassetia889/DSA-journey/tree/master/0179-largest-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/parassetia889/DSA-journey/tree/master/0424-longest-repeating-character-replacement) |
