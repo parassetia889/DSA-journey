@@ -141,6 +141,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1741-sort-array-by-increasing-frequency](https://github.com/parassetia889/DSA-journey/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/parassetia889/DSA-journey/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2047-find-a-peak-element-ii](https://github.com/parassetia889/DSA-journey/tree/master/2047-find-a-peak-element-ii) |
+| [2058-concatenation-of-array](https://github.com/parassetia889/DSA-journey/tree/master/2058-concatenation-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/parassetia889/DSA-journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/parassetia889/DSA-journey/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/parassetia889/DSA-journey/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -293,6 +294,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/parassetia889/DSA-journey/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/parassetia889/DSA-journey/tree/master/1642-water-bottles) |
+| [2058-concatenation-of-array](https://github.com/parassetia889/DSA-journey/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/parassetia889/DSA-journey/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/parassetia889/DSA-journey/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/parassetia889/DSA-journey/tree/master/2271-rearrange-array-elements-by-sign) |
