@@ -1,26 +1,18 @@
 class Solution {
     public int characterReplacement(String s, int k) {
         
-        if(s.length() <= 1)
-            return s.length();
+        int[] count = new int[26];
+        int left = 0, max=0, maxLen=0;
 
-        int maxFreq = 0, maxLen = 0;
-        int start = 0, end = 0;
-        int[] freq = new int[26];
+        for(int right = 0; right < s.length(); right++){
+            count[s.charAt(right)-'A']++;
+            max = Math.max(max, count[s.charAt(right)-'A']);
 
-        while(end < s.length()){
-            char ch = s.charAt(end);
-
-            freq[ch-'A']++;
-            maxFreq = Math.max(maxFreq, freq[ch-'A']);
-
-            int replacements = (end-start+1)-maxFreq;
-            if(replacements > k){
-                freq[s.charAt(start)-'A']--;
-                start++;
+            while(right-left+1 - max > k){
+                count[s.charAt(left)-'A']--;
+                left++;
             }
-            maxLen = Math.max(maxLen, (end-start+1));
-            end++;
+            maxLen = Math.max(maxLen, right-left+1);
         }
         return maxLen;
     }
