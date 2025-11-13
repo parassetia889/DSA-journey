@@ -137,6 +137,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/parassetia889/DSA-journey/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/parassetia889/DSA-journey/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/parassetia889/DSA-journey/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/parassetia889/DSA-journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1646-kth-missing-positive-number](https://github.com/parassetia889/DSA-journey/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/parassetia889/DSA-journey/tree/master/1675-magnetic-force-between-two-balls) |
 | [1720-crawler-log-folder](https://github.com/parassetia889/DSA-journey/tree/master/1720-crawler-log-folder) |
@@ -283,6 +284,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0410-split-array-largest-sum](https://github.com/parassetia889/DSA-journey/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/parassetia889/DSA-journey/tree/master/0680-valid-palindrome-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/parassetia889/DSA-journey/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/parassetia889/DSA-journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/parassetia889/DSA-journey/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Linked List
 |  |
@@ -319,6 +321,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parassetia889/DSA-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/parassetia889/DSA-journey/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/parassetia889/DSA-journey/tree/master/0410-split-array-largest-sum) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/parassetia889/DSA-journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -371,6 +374,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/parassetia889/DSA-journey/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/parassetia889/DSA-journey/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/parassetia889/DSA-journey/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/parassetia889/DSA-journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1720-crawler-log-folder](https://github.com/parassetia889/DSA-journey/tree/master/1720-crawler-log-folder) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/parassetia889/DSA-journey/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/parassetia889/DSA-journey/tree/master/3447-clear-digits) |
@@ -508,6 +512,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/parassetia889/DSA-journey/tree/master/0496-next-greater-element-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/parassetia889/DSA-journey/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/parassetia889/DSA-journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Quickselect
 |  |
 | ------- |
