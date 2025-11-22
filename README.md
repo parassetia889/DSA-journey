@@ -179,6 +179,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0287-find-the-duplicate-number](https://github.com/parassetia889/DSA-journey/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/parassetia889/DSA-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/parassetia889/DSA-journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/parassetia889/DSA-journey/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/parassetia889/DSA-journey/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/parassetia889/DSA-journey/tree/master/0658-find-k-closest-elements) |
@@ -530,4 +531,8 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/parassetia889/DSA-journey/tree/master/0347-top-k-frequent-elements) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/parassetia889/DSA-journey/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
