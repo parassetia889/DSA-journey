@@ -1,20 +1,22 @@
 class Solution {
     public int mySqrt(int x) {
-        
-        if(x == 0)
-            return 0;
-        long low = 1, high = x, ans=-1;
 
-        while(low <= high){
-            long mid = low + (high-low)/2;
+        if(x <= 1)
+            return x;
 
-            if(mid*mid <=  x){
-                ans = mid;
-                low = mid+1;
-              }
-            else 
-                high = mid-1;
+        int left = 0, right = x;
+
+        while(left <= right){
+
+            int mid = left + (right-left)/2;
+            long sq = (long)mid*mid;
+            if(sq == x)
+                return mid;
+            else if(sq < x)
+                left = mid+1;
+            else
+                right = mid-1;
         }
-        return (int)ans;
+        return right;
     }
 }
