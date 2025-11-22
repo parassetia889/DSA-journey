@@ -126,6 +126,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0540-single-element-in-a-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/parassetia889/DSA-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/parassetia889/DSA-journey/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/parassetia889/DSA-journey/tree/master/0658-find-k-closest-elements) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/parassetia889/DSA-journey/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0906-walking-robot-simulation](https://github.com/parassetia889/DSA-journey/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/parassetia889/DSA-journey/tree/master/0907-koko-eating-bananas) |
@@ -180,6 +181,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0350-intersection-of-two-arrays-ii](https://github.com/parassetia889/DSA-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/parassetia889/DSA-journey/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/parassetia889/DSA-journey/tree/master/0658-find-k-closest-elements) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/parassetia889/DSA-journey/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/parassetia889/DSA-journey/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/parassetia889/DSA-journey/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -252,6 +254,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0350-intersection-of-two-arrays-ii](https://github.com/parassetia889/DSA-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/parassetia889/DSA-journey/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/parassetia889/DSA-journey/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/parassetia889/DSA-journey/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/parassetia889/DSA-journey/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/parassetia889/DSA-journey/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/parassetia889/DSA-journey/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -271,6 +274,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0350-intersection-of-two-arrays-ii](https://github.com/parassetia889/DSA-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/parassetia889/DSA-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/parassetia889/DSA-journey/tree/master/0539-minimum-time-difference) |
+| [0658-find-k-closest-elements](https://github.com/parassetia889/DSA-journey/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/parassetia889/DSA-journey/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/parassetia889/DSA-journey/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/parassetia889/DSA-journey/tree/master/1333-sort-the-jumbled-numbers) |
@@ -411,6 +415,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/parassetia889/DSA-journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/parassetia889/DSA-journey/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/parassetia889/DSA-journey/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/parassetia889/DSA-journey/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/parassetia889/DSA-journey/tree/master/0948-sort-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/parassetia889/DSA-journey/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -510,6 +515,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0424-longest-repeating-character-replacement](https://github.com/parassetia889/DSA-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/parassetia889/DSA-journey/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/parassetia889/DSA-journey/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/parassetia889/DSA-journey/tree/master/0658-find-k-closest-elements) |
 ## Enumeration
 |  |
 | ------- |
