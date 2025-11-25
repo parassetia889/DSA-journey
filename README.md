@@ -212,6 +212,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0001-two-sum](https://github.com/parassetia889/DSA-journey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parassetia889/DSA-journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/parassetia889/DSA-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/parassetia889/DSA-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/parassetia889/DSA-journey/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/parassetia889/DSA-journey/tree/master/0219-contains-duplicate-ii) |
@@ -349,6 +350,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parassetia889/DSA-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/parassetia889/DSA-journey/tree/master/0014-longest-common-prefix) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/parassetia889/DSA-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/parassetia889/DSA-journey/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/parassetia889/DSA-journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/parassetia889/DSA-journey/tree/master/0151-reverse-words-in-a-string) |
@@ -510,6 +512,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/parassetia889/DSA-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/parassetia889/DSA-journey/tree/master/0022-generate-parentheses) |
 ## Sliding Window
 |  |
