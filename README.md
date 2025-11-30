@@ -203,6 +203,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0002-add-two-numbers](https://github.com/parassetia889/DSA-journey/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/parassetia889/DSA-journey/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/parassetia889/DSA-journey/tree/master/0189-rotate-array) |
+| [0264-ugly-number-ii](https://github.com/parassetia889/DSA-journey/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/parassetia889/DSA-journey/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/parassetia889/DSA-journey/tree/master/0539-minimum-time-difference) |
 | [1642-water-bottles](https://github.com/parassetia889/DSA-journey/tree/master/1642-water-bottles) |
@@ -217,6 +218,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0169-majority-element](https://github.com/parassetia889/DSA-journey/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/parassetia889/DSA-journey/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/parassetia889/DSA-journey/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/parassetia889/DSA-journey/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/parassetia889/DSA-journey/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/parassetia889/DSA-journey/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/parassetia889/DSA-journey/tree/master/0349-intersection-of-two-arrays) |
@@ -334,6 +336,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parassetia889/DSA-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parassetia889/DSA-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/parassetia889/DSA-journey/tree/master/0152-maximum-product-subarray) |
+| [0264-ugly-number-ii](https://github.com/parassetia889/DSA-journey/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/parassetia889/DSA-journey/tree/master/0410-split-array-largest-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/parassetia889/DSA-journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Prefix Sum
@@ -420,6 +423,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/parassetia889/DSA-journey/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/parassetia889/DSA-journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/parassetia889/DSA-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/parassetia889/DSA-journey/tree/master/0658-find-k-closest-elements) |
