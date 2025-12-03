@@ -149,6 +149,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1720-crawler-log-folder](https://github.com/parassetia889/DSA-journey/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/parassetia889/DSA-journey/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/parassetia889/DSA-journey/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/parassetia889/DSA-journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2047-find-a-peak-element-ii](https://github.com/parassetia889/DSA-journey/tree/master/2047-find-a-peak-element-ii) |
 | [2058-concatenation-of-array](https://github.com/parassetia889/DSA-journey/tree/master/2058-concatenation-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/parassetia889/DSA-journey/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -208,6 +209,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0268-missing-number](https://github.com/parassetia889/DSA-journey/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/parassetia889/DSA-journey/tree/master/0539-minimum-time-difference) |
 | [1642-water-bottles](https://github.com/parassetia889/DSA-journey/tree/master/1642-water-bottles) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/parassetia889/DSA-journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2645-pass-the-pillow](https://github.com/parassetia889/DSA-journey/tree/master/2645-pass-the-pillow) |
 ## Hash Table
 |  |
@@ -506,6 +508,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0287-find-the-duplicate-number](https://github.com/parassetia889/DSA-journey/tree/master/0287-find-the-duplicate-number) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/parassetia889/DSA-journey/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/parassetia889/DSA-journey/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/parassetia889/DSA-journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/parassetia889/DSA-journey/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/parassetia889/DSA-journey/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/parassetia889/DSA-journey/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -519,6 +522,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/parassetia889/DSA-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/parassetia889/DSA-journey/tree/master/0022-generate-parentheses) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/parassetia889/DSA-journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Sliding Window
 |  |
 | ------- |
@@ -532,6 +536,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/parassetia889/DSA-journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/parassetia889/DSA-journey/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Monotonic Stack
 |  |
@@ -547,4 +552,8 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/parassetia889/DSA-journey/tree/master/0374-guess-number-higher-or-lower) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/parassetia889/DSA-journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
