@@ -1,32 +1,18 @@
 class Solution {
     public int subsetXORSum(int[] nums) {
         
-        List<List<Integer>> subsets = new ArrayList<>();
-        generateSubsets(nums, 0, new ArrayList<>(), subsets);
-        
-        int sum = 0;
-        for(List<Integer> subset : subsets){
-            int xorTotal = 0;
-            for(int num : subset)
-                xorTotal ^= num;
-
-            sum += xorTotal;
-         }
-
-         return sum;
+        return XORSum(nums, 0, 0);
     }
 
-    public void generateSubsets(int[] nums, int indx, List<Integer> subset, List<List<Integer>> subsets){
+    public int XORSum(int[] nums, int indx, int currXor){
         if(indx == nums.length){
-            subsets.add(new ArrayList<>(subset));
-            return;
+            return currXor;
         }
 
-        subset.add(nums[indx]);
-        generateSubsets(nums, indx+1,subset, subsets);
-        
-        subset.remove(subset.size()-1);
-        generateSubsets(nums, indx+1,subset, subsets);
+        int with = XORSum(nums, indx+1, currXor ^ nums[indx]);
+        int withOut = XORSum(nums, indx+1, currXor);
+
+        return with + withOut;
 
     }
 }
