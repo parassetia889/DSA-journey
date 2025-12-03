@@ -100,6 +100,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0057-insert-interval](https://github.com/parassetia889/DSA-journey/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/parassetia889/DSA-journey/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/parassetia889/DSA-journey/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/parassetia889/DSA-journey/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/parassetia889/DSA-journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parassetia889/DSA-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parassetia889/DSA-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -504,6 +505,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/parassetia889/DSA-journey/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/parassetia889/DSA-journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/parassetia889/DSA-journey/tree/master/0287-find-the-duplicate-number) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/parassetia889/DSA-journey/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -522,6 +524,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/parassetia889/DSA-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/parassetia889/DSA-journey/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/parassetia889/DSA-journey/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/parassetia889/DSA-journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Sliding Window
 |  |
