@@ -112,6 +112,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0169-majority-element](https://github.com/parassetia889/DSA-journey/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/parassetia889/DSA-journey/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/parassetia889/DSA-journey/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/parassetia889/DSA-journey/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/parassetia889/DSA-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/parassetia889/DSA-journey/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/parassetia889/DSA-journey/tree/master/0238-product-of-array-except-self) |
@@ -342,6 +343,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parassetia889/DSA-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parassetia889/DSA-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/parassetia889/DSA-journey/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/parassetia889/DSA-journey/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/parassetia889/DSA-journey/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/parassetia889/DSA-journey/tree/master/0410-split-array-largest-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/parassetia889/DSA-journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
