@@ -205,6 +205,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0002-add-two-numbers](https://github.com/parassetia889/DSA-journey/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/parassetia889/DSA-journey/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/parassetia889/DSA-journey/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/parassetia889/DSA-journey/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/parassetia889/DSA-journey/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/parassetia889/DSA-journey/tree/master/0268-missing-number) |
@@ -337,6 +338,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0022-generate-parentheses](https://github.com/parassetia889/DSA-journey/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/parassetia889/DSA-journey/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/parassetia889/DSA-journey/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parassetia889/DSA-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parassetia889/DSA-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/parassetia889/DSA-journey/tree/master/0152-maximum-product-subarray) |
@@ -559,4 +561,8 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/parassetia889/DSA-journey/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/parassetia889/DSA-journey/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
