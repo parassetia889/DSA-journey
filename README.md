@@ -126,6 +126,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0349-intersection-of-two-arrays](https://github.com/parassetia889/DSA-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/parassetia889/DSA-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/parassetia889/DSA-journey/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/parassetia889/DSA-journey/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/parassetia889/DSA-journey/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/parassetia889/DSA-journey/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0540-single-element-in-a-sorted-array) |
@@ -293,6 +294,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0347-top-k-frequent-elements](https://github.com/parassetia889/DSA-journey/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/parassetia889/DSA-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/parassetia889/DSA-journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/parassetia889/DSA-journey/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/parassetia889/DSA-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/parassetia889/DSA-journey/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/parassetia889/DSA-journey/tree/master/0658-find-k-closest-elements) |
@@ -311,6 +313,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parassetia889/DSA-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/parassetia889/DSA-journey/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/parassetia889/DSA-journey/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/parassetia889/DSA-journey/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/parassetia889/DSA-journey/tree/master/0680-valid-palindrome-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/parassetia889/DSA-journey/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/parassetia889/DSA-journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -357,6 +360,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0213-house-robber-ii](https://github.com/parassetia889/DSA-journey/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/parassetia889/DSA-journey/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/parassetia889/DSA-journey/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/parassetia889/DSA-journey/tree/master/0435-non-overlapping-intervals) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/parassetia889/DSA-journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Prefix Sum
 |  |
