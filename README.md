@@ -247,6 +247,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1786-count-the-number-of-consistent-strings](https://github.com/parassetia889/DSA-journey/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/parassetia889/DSA-journey/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/parassetia889/DSA-journey/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/parassetia889/DSA-journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2502-sort-the-people](https://github.com/parassetia889/DSA-journey/tree/master/2502-sort-the-people) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/parassetia889/DSA-journey/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/parassetia889/DSA-journey/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -488,6 +489,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0144-binary-tree-preorder-traversal](https://github.com/parassetia889/DSA-journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/parassetia889/DSA-journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/parassetia889/DSA-journey/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/parassetia889/DSA-journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Design
 |  |
 | ------- |
@@ -503,6 +505,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0144-binary-tree-preorder-traversal](https://github.com/parassetia889/DSA-journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/parassetia889/DSA-journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/parassetia889/DSA-journey/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/parassetia889/DSA-journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Data Stream
 |  |
 | ------- |
@@ -513,6 +516,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0104-maximum-depth-of-binary-tree](https://github.com/parassetia889/DSA-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/parassetia889/DSA-journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/parassetia889/DSA-journey/tree/master/0145-binary-tree-postorder-traversal) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/parassetia889/DSA-journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## String Matching
 |  |
 | ------- |
@@ -590,4 +594,5 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/parassetia889/DSA-journey/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/parassetia889/DSA-journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 <!---LeetCode Topics End-->
