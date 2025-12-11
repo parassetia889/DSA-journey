@@ -127,6 +127,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0350-intersection-of-two-arrays-ii](https://github.com/parassetia889/DSA-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/parassetia889/DSA-journey/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/parassetia889/DSA-journey/tree/master/0435-non-overlapping-intervals) |
+| [0485-max-consecutive-ones](https://github.com/parassetia889/DSA-journey/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/parassetia889/DSA-journey/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/parassetia889/DSA-journey/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0540-single-element-in-a-sorted-array) |
