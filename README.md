@@ -599,4 +599,8 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/parassetia889/DSA-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/parassetia889/DSA-journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/parassetia889/DSA-journey/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
