@@ -139,6 +139,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0906-walking-robot-simulation](https://github.com/parassetia889/DSA-journey/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/parassetia889/DSA-journey/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/parassetia889/DSA-journey/tree/master/0948-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/parassetia889/DSA-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/parassetia889/DSA-journey/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/parassetia889/DSA-journey/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -282,6 +283,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0658-find-k-closest-elements](https://github.com/parassetia889/DSA-journey/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/parassetia889/DSA-journey/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/parassetia889/DSA-journey/tree/master/0908-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/parassetia889/DSA-journey/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/parassetia889/DSA-journey/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
@@ -303,6 +305,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0539-minimum-time-difference](https://github.com/parassetia889/DSA-journey/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/parassetia889/DSA-journey/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/parassetia889/DSA-journey/tree/master/0948-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/parassetia889/DSA-journey/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/parassetia889/DSA-journey/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/parassetia889/DSA-journey/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
