@@ -4,34 +4,32 @@ class Solution {
         if(s1.length() > s2.length())
             return false;
 
-        int[] freqS1 = new int[26];
-        int[] freqS2 = new int[26];
+        int[] freq1 = new int[26];
+        int[] freq2 = new int[26];
 
-        for(char ch : s1.toCharArray()){
-            freqS1[ch-'a']++;
+        for(int i=0; i<s1.length(); i++){
+            freq1[s1.charAt(i)-'a']++;
+            freq2[s2.charAt(i)-'a']++;
         }
 
-        int window = s1.length();
-        for(int i = 0; i < window; i++){
-            freqS2[s2.charAt(i)-'a']++;
-        }
-
-        if(matches(freqS1, freqS2))
+        if(matches(freq1, freq2))
             return true;
 
-        for(int i = window; i < s2.length(); i++){
-            freqS2[s2.charAt(i)-'a']++;
-            freqS2[s2.charAt(i-window)-'a']--;
+        int left=0;
+        for(int i=s1.length(); i<s2.length(); i++){
+            freq2[s2.charAt(left)-'a']--;
+            freq2[s2.charAt(i)-'a']++;
 
-            if(matches(freqS1, freqS2))
-            return true;
+            left++;
+            if(matches(freq1, freq2))
+                return true;
         }
-        return false;
+
+        return matches(freq1, freq2);
     }
 
     public boolean matches(int[] arr1, int[] arr2){
-
-        for(int i=0; i < 26; i++){
+        for(int i=0; i<26; i++){
             if(arr1[i] != arr2[i])
                 return false;
         }
