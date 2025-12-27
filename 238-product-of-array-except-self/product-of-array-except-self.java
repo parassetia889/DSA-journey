@@ -5,25 +5,25 @@ class Solution {
         int[] lPro = new int[n];
         int[] rPro = new int[n];
 
-        int p = 1;
-        for(int i = 0 ; i < n; i++){
-            lPro[i] = p;
-            p *= nums[i];
+        lPro[0]=1;
+        int curr=nums[0];
+        for(int i=1; i<n; i++){
+            lPro[i] = lPro[i-1]*nums[i-1];
         }
 
-        p = 1;
-        for(int i = n-1; i >= 0; i--){
-            rPro[i] = p;
-            p *= nums[i];
+        rPro[n-1]=1;
+        curr=nums[n-1];
+        for(int i=n-2; i>=0; i--){
+            rPro[i] = rPro[i+1]*nums[i+1];
         }
+
 
         int[] res = new int[n];
-        for(int i = 0; i < n; i++)
+        for(int i=0; i<n; i++){
             res[i] = lPro[i]*rPro[i];
+        }
 
         return res;
+            
     }
 }
-
-// 1 1 2 6
-// 24 12 4 1
