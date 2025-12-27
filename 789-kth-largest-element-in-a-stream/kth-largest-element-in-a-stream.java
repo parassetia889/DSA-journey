@@ -1,40 +1,30 @@
 class KthLargest {
-    int k;
-    List<Integer> stream;
+
+    PriorityQueue<Integer> pq;
+    int size = 0;
 
     public KthLargest(int k, int[] nums) {
-        this.k = k;
-        stream = new ArrayList<>(nums.length);
+        pq = new PriorityQueue<>();
+        size = k;
 
         for(int num : nums)
-            stream.add(num);
+            pq.offer(num);
 
-        Collections.sort(stream);
-
+        while(pq.size() > k){
+            pq.poll();
+        }
     }
     
     public int add(int val) {
-        int indx = getIndex(val);
 
-        stream.add(indx, val);
-        return stream.get(stream.size()-k);
-    }
+        pq.add(val);
 
-    private int getIndex(int val){
-        int s = 0, e = stream.size()-1;
-
-        while(s <= e){
-            int mid = (s+e)/2;
-            
-            int midValue = stream.get(mid);
-            if(midValue == val)
-                return mid;
-            else if(midValue > val)
-                e =  mid-1;
-            else 
-                s =  mid+1;
+        while(pq.size() > size){
+            pq.poll();
         }
-        return s;
+
+        return pq.peek();
+        
     }
 }
 
