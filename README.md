@@ -142,6 +142,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0906-walking-robot-simulation](https://github.com/parassetia889/DSA-journey/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/parassetia889/DSA-journey/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/parassetia889/DSA-journey/tree/master/0948-sort-an-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/parassetia889/DSA-journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/parassetia889/DSA-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/parassetia889/DSA-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/parassetia889/DSA-journey/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -249,6 +250,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0567-permutation-in-string](https://github.com/parassetia889/DSA-journey/tree/master/0567-permutation-in-string) |
 | [0906-walking-robot-simulation](https://github.com/parassetia889/DSA-journey/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/parassetia889/DSA-journey/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/parassetia889/DSA-journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1256-rank-transform-of-an-array](https://github.com/parassetia889/DSA-journey/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/parassetia889/DSA-journey/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/parassetia889/DSA-journey/tree/master/1741-sort-array-by-increasing-frequency) |
